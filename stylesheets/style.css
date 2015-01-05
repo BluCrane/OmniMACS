@@ -17,6 +17,5 @@ font-weight: 700;
 @media(max-width: 480px) {
 .title-super {
     font-size: 36px;
-    z-index: -1;
   }
 }
