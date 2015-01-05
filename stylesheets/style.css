@@ -20,6 +20,13 @@ font-weight: 700;
   }
 }
 
+@media(max-width: 560px) {
+.title-logo {
+	position: absolute;
+	opacity: 0.1;
+}	
+}
+
 .title-logo {
 	float: left;
 }
