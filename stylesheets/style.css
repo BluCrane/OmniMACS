@@ -30,4 +30,5 @@ font-weight: 700;
 .title-logo {
 	float: left;
 	max-width: 300px;
+	margin-top: 1.5em;
 }
