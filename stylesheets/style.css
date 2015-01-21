@@ -2,6 +2,7 @@ body {
 font-family: 'Questrial', sans-serif;
 color: #3b3b3b;
 font-weight: 300;
+padding-bottom: 40px;
 }
 .text-muted {
 	color: #575757;
@@ -32,3 +33,7 @@ font-weight: 700;
 	max-width: 300px;
 	margin-top: 1.5em;
 }
+
+/* Padding below the footer and lighter body text */
+
+
