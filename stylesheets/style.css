@@ -26,14 +26,19 @@ font-weight: 700;
 	position: absolute;
 	opacity: 0.1;
 }	
-}
-
-.title-logo {
-	float: left;
-	max-width: 300px;
-	margin-top: 1.5em;
 } */
 
+.title-logo {
+height: 70px;
+background-color: #f8f8f8;
+padding-bottom: 10px;
+border-radius: 0px 0px 10px 10px;
+-moz-border-radius: 0px 0px 10px 10px;
+-webkit-border-radius: 0px 0px 10px 10px;
+-webkit-box-shadow: 0px 2px 0px 0px rgba(50, 50, 50, 0.5);
+-moz-box-shadow: 0px 2px 0px 0px rgba(50, 50, 50, 0.5);
+box-shadow: 0px 2px 0px 0px rgba(50, 50, 50, 0.5);
+}
 
 
 
