@@ -2,7 +2,7 @@ body {
 font-family: 'Questrial', sans-serif;
 color: #3b3b3b;
 font-weight: 300;
-padding-bottom: 40px;
+padding: 40px 0;
 }
 .text-muted {
 	color: #575757;
