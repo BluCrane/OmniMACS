@@ -10,7 +10,7 @@ padding: 40px 0;
 .text-thin {
 	font-weight: 100;
 }
-.title-super {
+/* .title-super {
 font-size: 60px;
 font-weight: 700;
 }
@@ -21,7 +21,7 @@ font-weight: 700;
   }
 }
 
-/* @media(max-width: 743px) {
+@media(max-width: 743px) {
 .title-logo {
 	position: absolute;
 	opacity: 0.1;
