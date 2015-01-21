@@ -21,7 +21,7 @@ font-weight: 700;
   }
 }
 
-@media(max-width: 743px) {
+/* @media(max-width: 743px) {
 .title-logo {
 	position: absolute;
 	opacity: 0.1;
@@ -32,8 +32,8 @@ font-weight: 700;
 	float: left;
 	max-width: 300px;
 	margin-top: 1.5em;
-}
+} */
 
-/* Padding below the footer and lighter body text */
+
 
 
