@@ -10,23 +10,6 @@ padding: 40px 0;
 .text-thin {
 	font-weight: 100;
 }
-/* .title-super {
-font-size: 60px;
-font-weight: 700;
-}
-
-@media(max-width: 900px) {
-.title-super {
-    font-size: 40px;
-  }
-}
-
-@media(max-width: 743px) {
-.title-logo {
-	position: absolute;
-	opacity: 0.1;
-}	
-} */
 
 .title-logo {
 height: 70px;
@@ -53,4 +36,8 @@ box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.5);
 position: relative;
 left: 20%;
 }
+}
+
+.navbar-nav {
+margin: 17.5px -15px 0px -15px;
 }
