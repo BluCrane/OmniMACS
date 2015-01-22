@@ -38,6 +38,8 @@ left: 20%;
 }
 }
 
+@media (max-width: 767px) {
 .navbar-nav {
 margin: 17.5px -15px 0px -15px;
+}
 }
