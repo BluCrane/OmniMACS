@@ -3,6 +3,7 @@ font-family: 'Questrial', sans-serif;
 color: #3b3b3b;
 font-weight: 300;
 padding: 40px 0;
+background-image: url(https://cloud.githubusercontent.com/assets/9150985/5863666/e10de326-a283-11e4-8211-61aafa85d864.jpg);
 }
 .text-muted {
 	color: #575757;
@@ -49,6 +50,6 @@ text-align: center;
 margin: 50px 20px 0 20px;
 }
 
-.wrap-cyanotype {
-background-image: url(https://cloud.githubusercontent.com/assets/9150985/5863666/e10de326-a283-11e4-8211-61aafa85d864.jpg);
-}
+
+
+
