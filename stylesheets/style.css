@@ -6,6 +6,7 @@ padding: 40px 0;
 background-image: url(https://cloud.githubusercontent.com/assets/9150985/5863666/e10de326-a283-11e4-8211-61aafa85d864.jpg);
 background-position: center top;
 background-repeat: no-repeat;
+background-attachment:fixed;
 }
 .text-muted {
 	color: #575757;
