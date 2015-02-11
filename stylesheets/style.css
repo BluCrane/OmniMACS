@@ -59,13 +59,8 @@ color: white;
 font-weight: bold;
 }
 
-.block2 h3 {
-color: blue;
-font-weight: bold;
-margin-bottom: 50px;
-border-radius: 10px 10px 10px 10px;
-background-color: rgba(0,0,0,0.3);
-padding: 10px;
+.block2 {
+margin: 5%;
 }
 
 
