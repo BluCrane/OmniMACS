@@ -7,6 +7,10 @@ padding: 40px 0;
 
 .jumbotron {
 background-image: url(https://cloud.githubusercontent.com/assets/9150985/5876356/4024e800-a31f-11e4-8926-69bc2ca1006c.jpg);
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-size:cover;
+margin-top: 10px;
 }
 .text-muted {
 	color: #575757;
@@ -48,12 +52,7 @@ margin: 17.5px -15px 0px -15px;
 }
 }
 
-.block1 h1 {
-text-align: center;
-margin: 5% 5% 25% 5%;
-color: white;
-font-weight: bold;
-}
+
 
 .block2 {
 margin: 5%;
