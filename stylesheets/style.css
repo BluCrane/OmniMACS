@@ -9,6 +9,15 @@ background-color: rgba(25,25,25,0.5);
 border: none;
 }
 
+.navbar-default a {
+color: white;
+}
+
+.navbar-default a:hover {
+color: blue;
+}
+
+
 @media (min-width: 768px) {
 .navbar-nav {
 position: relative;
