@@ -9,11 +9,11 @@ background-color: rgba(25,25,25,0.5);
 border: none;
 }
 
-.navbar-default a {
+.navbar-default .navbar-nav>li>a {
 color: white;
 }
 
-.navbar-default a:hover {
+.navbar-default .navbar-nav>li>a:hover {
 color: blue;
 }
 
