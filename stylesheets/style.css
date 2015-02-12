@@ -18,6 +18,11 @@ text-decoration: underline;
 color: ivory;
 }
 
+.navbar-default .navbar-nav>li>a:active {
+text-decoration: underline;
+color: ivory;
+}
+
 
 @media (min-width: 768px) {
 .navbar-nav {
