@@ -56,6 +56,9 @@ background-color: blue;
 .navbar-default .navbar-nav .open .dropdown-menu>li>a {
 	color:ivory;
 }
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+	color:blue;
+}
 }
 
 .title-logo {
