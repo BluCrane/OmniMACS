@@ -9,7 +9,7 @@ background-color: rgba(25,25,25,0.5);
 border: none;
 }
 
-.navbar-default .navbar-nav>li>a, .dropdown-menu>li>a, .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+.navbar-default .navbar-nav>li>a, .dropdown-menu>li>a {
 color: ivory;
 }
 
@@ -48,6 +48,9 @@ border: 2px solid blue;
 }
 .navbar-default .navbar-toggle .icon-bar {
 background-color: blue;
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+	color:ivory;
 }
 }
 
