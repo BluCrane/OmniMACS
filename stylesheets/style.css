@@ -44,7 +44,7 @@ left: 20%;
 .navbar-nav {
 margin: 17.5px -15px 0px -15px;
 }
-.navbar-default, .navbar-nav>li>.dropdown-menu {
+.navbar-default  {
 background-color: rgba(25,25,25,0.8);
 }
 .navbar-default .navbar-toggle {
@@ -52,13 +52,6 @@ border: 2px solid blue;
 }
 .navbar-default .navbar-toggle .icon-bar {
 background-color: blue;
-}
-.navbar-default .navbar-nav .open .dropdown-menu>li>a {
-	color:ivory;
-}
-.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
-	color:ivory;
-	text-decoration:underline;
 }
 }
 
