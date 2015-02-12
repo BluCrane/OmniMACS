@@ -4,12 +4,12 @@ color: #3b3b3b;
 font-weight: 300;
 }
 
-.navbar-default {
+.navbar-default, .navbar-nav>li>.dropdown-menu {
 background-color: rgba(25,25,25,0.5);
 border: none;
 }
 
-.navbar-default .navbar-nav>li>a {
+.navbar-default .navbar-nav>li>a, .dropdown-menu>li>a {
 color: ivory;
 }
 
@@ -40,7 +40,7 @@ left: 20%;
 .navbar-nav {
 margin: 17.5px -15px 0px -15px;
 }
-.navbar-default {
+.navbar-default, .navbar-nav>li>.dropdown-menu {
 background-color: rgba(25,25,25,0.8);
 }
 .navbar-default .navbar-toggle {
