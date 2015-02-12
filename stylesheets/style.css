@@ -52,6 +52,9 @@ border: 2px solid white;
 .navbar-default .navbar-toggle .icon-bar {
 background-color: blue;
 }
+.navbar-default .navbar-nav>li>a {
+color: #777;
+}
 }
 
 .title-logo {
