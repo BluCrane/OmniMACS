@@ -5,6 +5,21 @@ font-weight: 300;
 padding: 40px 0;
 }
 
+
+
+@media (min-width: 768px) {
+.navbar-nav {
+position: relative;
+left: 20%;
+}
+}
+
+@media (max-width: 767px) {
+.navbar-nav {
+margin: 17.5px -15px 0px -15px;
+}
+}
+
 .title-logo {
 margin-top: -10px;
 }
