@@ -44,11 +44,9 @@ left: 20%;
 .navbar-nav {
 margin: 17.5px -15px 0px -15px;
 }
-.navbar-default  {
-background-color: rgba(25,25,25,0.8);
-}
+
 .navbar-default .navbar-toggle {
-border: 2px solid blue;
+border: 2px solid white;
 }
 .navbar-default .navbar-toggle .icon-bar {
 background-color: blue;
