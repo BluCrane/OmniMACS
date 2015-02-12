@@ -27,7 +27,7 @@ text-decoration: underline;
 color: ivory;
 }
 
-.navbar-default .navbar-nav>li>a:active {
+.navbar-default .navbar-nav>li>a:active, .navbar-default .navbar-nav>li>a:focus {
 text-decoration: underline;
 color: lightblue;
 }
