@@ -37,7 +37,7 @@ left: 20%;
 }
 
 @media (max-width: 767px) {
-.navbar-nav {
+.navbar-default {
 margin: 17.5px -15px 0px -15px;
 background-color: rgba(25,25,25,0.8);
 }
