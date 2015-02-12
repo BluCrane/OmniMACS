@@ -55,6 +55,9 @@ background-color: blue;
 .navbar-default .navbar-nav>li>a:visited {
 color: #777;
 }
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+	padding:0;
+}
 }
 
 .title-logo {
