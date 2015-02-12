@@ -57,7 +57,8 @@ background-color: blue;
 	color:ivory;
 }
 .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
-	color:blue;
+	color:ivory;
+	text-decoration:underline;
 }
 }
 
