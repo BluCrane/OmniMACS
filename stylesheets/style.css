@@ -39,6 +39,13 @@ left: 20%;
 @media (max-width: 767px) {
 .navbar-nav {
 margin: 17.5px -15px 0px -15px;
+background-color: rgba(25,25,25,0.8);
+}
+.navbar-default .navbar-toggle {
+border: 2px solid blue;
+}
+.navbar-default .navbar-toggle .icon-bar {
+background-color: blue;
 }
 }
 
