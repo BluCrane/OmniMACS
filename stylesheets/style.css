@@ -14,7 +14,7 @@ color: ivory;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-color: azure;
+text-decoration: underline;
 }
 
 
