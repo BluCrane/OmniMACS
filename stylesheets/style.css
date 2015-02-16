@@ -116,9 +116,13 @@ top: 10px;
 	display:none;
 }
 
-#contact textarea {
+#contact textarea, #contact input {
 	display: block;
 	width:100%;
+}
+
+.ss-item { 
+	margin: 10px 0
 }
 
 #ss-submit {
