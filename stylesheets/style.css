@@ -112,6 +112,14 @@ top: 10px;
 }
 
 /* CSS for Google Docs Contact Form */
+.required-message, .error-message {
+	display:none;
+}
+
+#contact textarea {
+	display: block;
+	width:100%;
+}
 
 #ss-submit {
 	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
