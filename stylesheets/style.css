@@ -112,6 +112,11 @@ top: 10px;
 }
 
 /* CSS for Google Docs Contact Form */
+.ss-required-asterisk, .ss-secondary-text {
+	color:red;
+	font-size: 10px;
+}
+
 .required-message, .error-message {
 	display:none;
 }
