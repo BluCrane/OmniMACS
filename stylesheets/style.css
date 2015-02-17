@@ -1,6 +1,6 @@
 body {
 font-family: 'Questrial', sans-serif;
-color: #3b3b3b;
+color: #666666;
 font-weight: 300;
 font-size: 16px;
 }
@@ -117,6 +117,10 @@ top: 10px;
 }
 
 /* CSS for Google Docs Contact Form */
+.ss-q-item-label {
+	font-weight: 500;
+}
+
 .ss-required-asterisk, .ss-secondary-text {
 	color:red;
 	font-weight: 700;
