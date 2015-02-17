@@ -2,6 +2,7 @@ body {
 font-family: 'Questrial', sans-serif;
 color: #3b3b3b;
 font-weight: 300;
+font-size: 16px;
 }
 
 .title-logo {
@@ -90,6 +91,10 @@ top: 10px;
 
 #two.container {
 	margin-bottom: 40px;
+}
+
+.block2 li {
+	margin-top: 0.5em;
 }
 
 @media (min-width: 992px) {
