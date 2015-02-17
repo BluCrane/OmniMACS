@@ -115,6 +115,7 @@ top: 10px;
 .ss-required-asterisk, .ss-secondary-text {
 	color:red;
 	font-weight: 700;
+	font-size: 12px;
 }
 
 .required-message, .error-message {
