@@ -128,8 +128,8 @@
 <div aria-hidden="true" class="ss-required-asterisk">*Required</div>
 <script type="text/javascript">
 var submitted=false;
-</script>
-<form action="https://docs.google.com/forms/d/14O0-WlQTORkJmJBf9C3u7--OTTg23HmgC8zgJThFaoA/formResponse" method="POST" id="ss-form">
+</script><iframe id="hidden_iframe" name="hidden_iframe" onload="if(submitted){window.location='#form1';}" style="display: none;"></iframe>
+<form action="https://docs.google.com/forms/d/14O0-WlQTORkJmJBf9C3u7--OTTg23HmgC8zgJThFaoA/formResponse" method="POST" id="ss-form" onsubmit="submitted=true;" target="hidden_iframe">
 	<ol role="list" class="ss-question-list" style="padding-left: 0">
 		<div class="ss-form-question errorbox-good" role="listitem">
 			<div dir="ltr" class="ss-item ss-item-required ss-text">
@@ -196,7 +196,7 @@ var submitted=false;
 <div class="ss-item ss-navigate">
 <table id="navigation-table"><tbody><tr>
 <td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action" onsubmit="submitted=true;" data-toggle="modal" data-target="#form1">
+<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action">
 </td></tr></tbody></table>
 </div>
 </ol>
