@@ -9,6 +9,12 @@ h2, h3, h4 {
 	color: #444;
 }
 
+.cat {
+color: red;
+font-size: 18px;
+font-weight: bold;
+}
+
 .title-logo {
 margin-top: -10px;
 }
