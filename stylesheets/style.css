@@ -102,7 +102,7 @@ margin-right: 0.5em;
 top: 10px;
 }
 
-#two.container {
+#two.container, #three.container, #four.container {
 	margin-bottom: 40px;
 }
 
