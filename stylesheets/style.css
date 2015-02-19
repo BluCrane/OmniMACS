@@ -14,6 +14,15 @@ background-size: cover;
 background-attachment: fixed;
 }
 
+.wrap-reasons {
+background: rgba(25,25,25,0.6);
+color: lightsteelblue;
+}
+
+.wrap-reasons h2, .wrap-reasons h2 {
+	color: whitesmoke;
+}
+
 h2, h3, h4 {
 	color: #444;
 }
