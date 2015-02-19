@@ -19,8 +19,14 @@ background: rgba(25,25,25,0.6);
 color: lightsteelblue;
 }
 
-.wrap-reasons h2, .wrap-reasons h2 {
+.wrap-reasons h2 {
+	color: white;
+}
+
+.wrap-reasons h3 {
 	color: whitesmoke;
+	border: 1px solid;
+	padding-left: 5px;
 }
 
 h2, h3, h4 {
