@@ -111,12 +111,12 @@ top: 10px;
 }
 
 @media (min-width: 992px) {
-.block2 .col-md-6.left, #about {
+.col-md-6.left {
 	border-right: 1px solid #ddd;
 }
 }
 
-.wrap-blue, .block4 {
+.wrap-blue, .block5 {
 	background: whitesmoke;
 }
 
