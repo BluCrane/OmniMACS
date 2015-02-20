@@ -19,7 +19,7 @@ background-size: cover;
 background-attachment: fixed;
 }
 
-.wrap-reasons, #thanks1 {
+.wrap-reasons, .wrap-thanks {
 background: rgba(255,255,255,0.8);
 padding-top: 100px;
 }
