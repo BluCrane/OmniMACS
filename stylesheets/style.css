@@ -159,7 +159,7 @@ table {
    background: lightblue;
  }
  
- #admin .table-striped>tbody>tr:nth-child(even) {
+#admin .table-striped>tbody>tr:nth-child(even) {
 background-color: #f9f9f9;
 }
 
