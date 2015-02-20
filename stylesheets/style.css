@@ -167,6 +167,22 @@ table {
 	padding: 20px;
 }
 
+.block3 h3 {
+	padding: 15px;
+}
+
+#market h3 {
+   border: 5px solid lightsalmon;
+}
+
+#admin h3 {
+   border:5px solid lightblue;
+ }
+ 
+ #comm h3 {
+	border:5px solid gainsboro;
+}
+
 .wrap-white {
 	padding:40px 0;
 	background: #e7e7e7;
