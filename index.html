@@ -259,6 +259,15 @@ var submitted=false;
   </div>
 </div>
 <!-- End Modal -->
+<script>
+window.onpageshow = function(evt) {
+    // If persisted then it is in the page cache, force a reload of the page.
+    if (evt.persisted) {
+        document.body.style.display = "none";
+        location.reload();
+    }
+};
+</script>
 		<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	</body>
