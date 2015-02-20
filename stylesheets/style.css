@@ -159,9 +159,6 @@ table {
    background: lightblue;
  }
  
-#admin .table-striped>tbody>tr:nth-child(even) {
-background-color: #f9f9f9;
-}
 
 .block3 td {
 	padding: 20px;
