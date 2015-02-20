@@ -155,6 +155,10 @@ table {
 	background: lightsalmon;
 }
 
+#admin .table-striped>tbody>tr:nth-child(odd)>td {
+   background-color: lightblue;
+ }
+
 .block3 td {
 	padding: 20px;
 }
