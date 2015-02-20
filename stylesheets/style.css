@@ -146,6 +146,12 @@ li {
 	margin:0 auto;
 }
 
+table {
+	margin-left: auto;
+	margin-right: auto;
+	background: lightsalmon;
+}
+
 .wrap-white {
 	padding:40px 0;
 	background: #e7e7e7;
