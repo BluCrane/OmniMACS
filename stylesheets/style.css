@@ -186,6 +186,10 @@ table {
 .wrap-white {
 	padding:40px 0;
 	background: #e7e7e7;
+	position: fixed;
+bottom: 0;
+left: 0;
+right: 0;
 }
 
 /* CSS for Google Docs Contact Form */
