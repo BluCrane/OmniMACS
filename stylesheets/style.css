@@ -146,6 +146,9 @@ margin-right: 1em;
 top: 0.2em;
 }
 
+#four.container .glyphicon {
+	margin-bottom: 1em;
+}
 
 .block2 li {
 	margin-top: 1em;
