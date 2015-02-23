@@ -56,14 +56,20 @@ border: none;
 color: white;
 }
 
-
+.navbar-brand {
+float: left;
+padding: 15px 15px;
+font-size: 18px;
+height: inherit;
+line-height: inherit;
+}
 
 .navbar-default .navbar-nav>li>a {
 color: #b0c4de;
 }
 
 .navbar-default .navbar-collapse {
-	border: none;
+border: none;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
