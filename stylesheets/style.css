@@ -229,7 +229,7 @@ table {
 	display:none;
 }
 
-#contact textarea, #contact input {
+.block6 textarea, .block6 input {
 	display: block;
 	width:100%;
 }
