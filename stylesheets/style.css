@@ -147,8 +147,8 @@ top: 0.2em;
 }
 
 
-li {
-	margin-top: 0.5em;
+.block2 li {
+	margin-top: 1em;
 }
 
 @media (min-width: 992px) {
