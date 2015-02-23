@@ -43,7 +43,8 @@ font-size: 18px;
 }
 
 .title-logo {
-margin-top: -10px;
+margin-left:auto;
+margin-right:auto;
 }
 
 .navbar-default {
@@ -75,22 +76,7 @@ color: white;
 }
 
 
-@media (min-width: 768px) {
-.navbar-nav {
-position: relative;
-left: 20%;
-}
-.jumbotron h2 {
-	font-size:50px;
-}
-}
-
 @media (max-width: 767px) {
-.navbar-nav {
-margin: 17.5px -15px 0px -15px;
-background: #fff;
-border-bottom: 1px solid #e7e7e7;
-}
 .navbar-default .navbar-toggle {
 border: 2px solid #b0c4de;
 }
@@ -125,10 +111,7 @@ padding: 70px 0 30px 0;
 	color: white;
 }
 
-.jumbotron .glyphicon {
-margin-right: 0.5em;
-top: 10px;
-}
+
 
 #two.container, #three.container, .block5 {
 	margin-bottom: 40px;
