@@ -92,6 +92,11 @@ text-decoration: underline;
 color: white;
 }
 
+@media (max-width: 520px) {
+.jumbotron h2 {
+font-size: 24px;
+}
+}
 
 @media (max-width: 767px) {
 .navbar-nav {
