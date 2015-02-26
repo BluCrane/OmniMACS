@@ -167,6 +167,14 @@ top: 0.2em;
 	margin-bottom: 1em;
 }
 
+#contact .glyphicon {
+	margin:0;
+}
+
+#intouch {
+	margin-bottom: 1em;
+}
+
 .block2 li {
 	margin-top: 1em;
 }
