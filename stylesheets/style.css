@@ -135,6 +135,11 @@ background-repeat: no-repeat;
 background-size:cover;
 padding: 70px 0 50px 0;
 }
+.jumbotron h1 {
+color: #444;
+font-weight: 700;
+text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
+}
 
 @media screen and (min-width: 768px) {
 .jumbotron h1, .jumbotron .h1 {
@@ -152,7 +157,6 @@ border-right: 50px solid transparent;
 height: 0;
 } **/
 }
-
 
 .jumbotron .glyphicon {
 margin-right: 1em;
