@@ -59,6 +59,9 @@ border: none;
 
 .navbar-default .navbar-brand {
 color: white;
+font-family: sans-serif;
+font-weight: 900;
+}
 }
 
 .navbar-brand {
