@@ -85,8 +85,8 @@ color: #b0c4de;
 }
 
 .navbar-default .navbar-nav>li>a:visited {
-text-decoration: underline;
-color: #b0c4de;
+text-decoration: none;
+color: white;
 }
 
 .navbar-default .navbar-nav>li>a:active, .navbar-default .navbar-nav>li>a:focus {
