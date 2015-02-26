@@ -191,15 +191,15 @@ table {
 }
 
 #market table {
-	background: lightsalmon;
+	background: lightblue;
 }
 
 #admin table {
-   background: lightblue;
+   background: gainsboro;
  }
  
  #comm table {
-	background: gainsboro;
+	background: lightsalmon;
 }
  
 .block3 td {
