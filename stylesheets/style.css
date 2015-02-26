@@ -19,17 +19,18 @@ background-size: cover;
 background-attachment: fixed;
 }
 
-#reasons li {
-	margin-bottom: 1em;
-}
-
 .wrap-reasons, .wrap-thanks {
-background: rgba(255,255,255,0.6);
+background: rgba(255,255,255,0.7);
 padding-top: 100px;
 }
 
+.wrap-reasons li {
+	margin-bottom: 1em;
+}
+
 .wrap-reasons h2 {
-font-weight: bold;
+font-family: sans-serif;
+font-weight: 600;
 }
 
 .wrap-reasons h3 {
