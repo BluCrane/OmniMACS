@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Your website is virtual real estate that will reward a proper investement."
-date: 2015-03-o3
+title: "Your website is virtual real estate"
+date: 2015-03-03
 ---
 
 <h2>Your website is virtual real estate that will reward a proper investement.</h2>
