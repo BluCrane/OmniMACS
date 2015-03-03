@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Your website is virtual real estate"
 date: 2015-03-03
 ---
