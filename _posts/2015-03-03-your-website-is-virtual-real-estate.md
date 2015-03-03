@@ -3,7 +3,7 @@ layout: post
 title: "Your website is virtual real estate"
 date: 2015-03-03
 ---
-
+<div class="container">
 <h2>Your website is virtual real estate that will reward a proper investment.</h2>
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
 South Africa's fast growing internet population reached 14 million in 2013, of which 60% accessed the internet regularly from cell phones. 
@@ -39,3 +39,4 @@ Website visitors expect a smooth user experience and clear communication that hi
 
 <p>The above questions can be addressed with a combination of time, money and expertise. Resources that many individuals and businesses may not necessarily possess in abundance. 
 OmniM*A*C*S aims to solve that by providing flexible, high quality and affordable websites that fit the purpose of your business, brand or project.</p>
+</div><!-- /.container -->
