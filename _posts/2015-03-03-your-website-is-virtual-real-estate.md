@@ -1,7 +1,3 @@
-layout: post
-title: "Your website is virtual real estate"
-date: 2015-03-03
-
 <div class="container">
 <h2>Your website is virtual real estate that will reward a proper investment.</h2>
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
