@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Your website is virtual real estate that will reward a proper investement."
+date: 2015-03-o3
+---
+
 <h2>Your website is virtual real estate that will reward a proper investement.</h2>
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
 South Africa's fast growing internet population reached 14 million in 2013, of which 60% accessed the internet regularly from cell phones. 
