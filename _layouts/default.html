@@ -23,8 +23,9 @@
 			  ga('send', 'pageview');
 			
 			</script>
-	</head>
-	<body>
+</head>
+	<body id="reasons">
+		<div class="wrap-reasons">
 		<!-- NAVBAR
 ================================================== -->	
 <div class="navbar-wrapper">
@@ -59,20 +60,30 @@
 
       </div>
     </div> <!-- NAVBAR -->
-
-		    {{ content }}
-
+			<div class="container" id="blog1">
+		    		<div class="row post1">
+				    <div class="col-md-12">
+					  {{ content }}  
+				    </div>
+			    	</div>
+			</div>
+			   	<div class="row post2">
+			     		<div class="col-md-12 text-center">
+					<img src="https://cloud.githubusercontent.com/assets/9150985/6391499/6ce25e44-bdbf-11e4-8396-0cfe65b2cae1.png" class="img-responsive title-logo" alt="logo">
+			     		</div>
+			   	</div>  
+		</div> <!-- close wrap 'reasons' -->  
 	<!-- FOOTER -->
-       	<div class="wrap-white">
-      		<div class="container footer">
-            			<div class="row">
-      				<div class="col-sm-12">
-              				<p class="pull-right"><a href="#">Back to top</a></p>
-              				<p>&copy; 2014 OmniM*A*C*S &middot; <a href="http://omnimacs.co.za/privacy">Privacy</a> &middot; <a href="#"></a></p>
-              			</div>	
-            			</div>
-            		</div>
-            	</div>	
+	       	<div class="wrap-white">
+	      		<div class="container footer">
+	            			<div class="row">
+	      				<div class="col-sm-12">
+	              				<p class="pull-right"><a href="#">Back to top</a></p>
+	              				<p>&copy; 2014 OmniM*A*C*S &middot; <a href="http://omnimacs.co.za/privacy">Privacy</a> &middot; <a href="#"></a></p>
+	              			</div>	
+	            			</div>
+	            	</div>
+	         </div>	
               		<script type="text/javascript" src="http://omnimacs.co.za/js/jquery-1.11.2.min.js"></script>
               		<script type="text/javascript" src="http://omnimacs.co.za/js/bootstrap.min.js"></script>
               		<!-- collapse expanded mobile navbar after clicking a link -->
