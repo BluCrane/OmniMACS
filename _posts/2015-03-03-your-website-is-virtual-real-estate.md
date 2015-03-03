@@ -4,7 +4,7 @@ title: "Your website is virtual real estate"
 date: 2015-03-03
 ---
 
-<h2>Your website is virtual real estate that will reward a proper investement.</h2>
+<h2>Your website is virtual real estate that will reward a proper investment.</h2>
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
 South Africa's fast growing internet population reached 14 million in 2013, of which 60% accessed the internet regularly from cell phones. 
 According to the World Bank every 10% increase in mobile penetration, leads to a corresponding 0.8% increase in gross domestic product, which of course also have big implications for your business.</p>
