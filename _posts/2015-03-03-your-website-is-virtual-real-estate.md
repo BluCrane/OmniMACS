@@ -11,7 +11,7 @@ According to the World Bank every 10% increase in mobile penetration, leads to a
 <p>Your website is virtual real estate. Just like your business premises or home, its appearance and user friendliness will have an effect on visitors. 
 Sloppy, generic or amateurish websites chase potential clients away and devalue your brand.</p>
 
-<p>If you goal is to engage potential clients on a professional level there are some important factors to take into account. 
+<p>If your goal is to engage potential clients on a professional level there are some important factors to take into account.
 Website visitors expect a smooth user experience and clear communication that highlights your brand, product or service.</p>
 
 <h3>What your website visitors want:</h3>
@@ -21,19 +21,19 @@ Website visitors expect a smooth user experience and clear communication that hi
 <li><span class="cat">fast page loading time</span> - does your slow website chase potential clients away?</li>
 <li><span class="cat">ease of navigation</span> - how easy is it to find different sections of your website?</li>
 <li><span class="cat">layout and design</span> - does the design reflect your brand in a professional and informative way, and does the layout make it easy for visitors to read and interact with the content?</li>
-<li><span class="cat">unique selling point</span> - does your website make your product or service stand out from the rest?</li>
+<li><span class="cat">professional and useful content</span> - is your website informative and well written?</li>
 </ul>
 
 <h3>What a website owner needs:</h3>
 <ul>
-<li>traffic - is your website prominent in search results within your field?</li>
-<li>interaction - are visitors able to comment on, recommend and share your content?</li>
-<li>measurable outcomes - how easy is it to track visitor numbers, sales and other statistics?</li>
-<li>security - is your website safe from hacking or crashing?</li>
-<li>maintenance - how easy is it to update or upgrade your site?</li>
-<li>posting - how easy is it to post new content or add new users?</li>
-<li>conversion - is your sales function (e-commerce) reliable and low maintenance?</li>
-<li>scalability - can your site adapt effortlessly to increased demand and traffic?</li>
+<li><span class="cat">traffic</span> - is your website prominent in search results within your field?</li>
+<li><span class="cat">interaction</span> - are visitors able to comment on, recommend and share your content?</li>
+<li><span class="cat">measurable outcomes</span> - how easy is it to track visitor numbers, sales and other statistics?</li>
+<li><span class="cat">security</span> - is your website safe from hacking or crashing?</li>
+<li><span class="cat">maintenance</span> - how easy is it to update or upgrade your site?</li>
+<li><span class="cat">posting</span> - how easy is it to post new content or add new users?</li>
+<li><span class="cat">conversion</span> - is your sales function (e-commerce) reliable and low maintenance?</li>
+<li><span class="cat">scalability</span> - can your site adapt effortlessly to increased demand and traffic?</li>
 </ul>
 
 <p>The above questions can be addressed with a combination of time, money and expertise. Resources that many individuals and businesses may not necessarily possess in abundance. 
