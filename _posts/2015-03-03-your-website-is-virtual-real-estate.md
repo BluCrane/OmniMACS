@@ -5,7 +5,7 @@ date: 2015-03-03
 ---
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
 South Africa's fast growing internet population reached 14 million in 2013, of which 60% accessed the internet regularly from cell phones. 
-According to the World Bank every 10% increase in mobile penetration, leads to a corresponding 0.8% increase in gross domestic product, which of course also have big implications for your business.</p>
+According to the World Bank every 10% increase in mobile penetration, leads to a corresponding 0.8% increase in gross domestic product, a fact that also has big implications for your business.</p>
 
 <p>Your website is virtual real estate. Just like your business premises or home, its appearance and user friendliness will have an effect on visitors. 
 Sloppy, generic or amateurish websites chase potential clients away and devalue your brand.</p>
@@ -16,7 +16,7 @@ Website visitors expect a smooth user experience and clear communication that hi
 <h3>What your website visitors want:</h3>
 <ul>
 <li>responsive design - does your website look equally good on a smartphone, tablet and desktop?</li>
-<li>cross browser compatibility - does your website render properly on different web browsers (Chrome, Firefox, Safari etc)?</li>
+<li>cross browser compatibility - does your website render properly on different web browsers (Internet Explorer, Chrome, Firefox, Safari etc)?</li>
 <li>fast page loading time - does your slow website chase potential clients away?</li>
 <li>ease of navigation - how easy is it to find different sections of your website?</li>
 <li>layout and design - does the design reflect your brand in a professional and informative way, and does the layout make it easy for visitors to read and interact with the content?</li>
