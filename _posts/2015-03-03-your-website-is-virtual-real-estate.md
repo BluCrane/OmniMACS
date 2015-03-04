@@ -20,7 +20,7 @@ Website visitors expect a smooth user experience and clear communication that hi
 <li><span class="cat">cross browser compatibility</span> - does your website render properly on different web browsers (Internet Explorer, Chrome, Firefox, Safari etc)?</li>
 <li><span class="cat">fast page loading time</span> - does your slow website chase potential clients away?</li>
 <li><span class="cat">ease of navigation</span> - how easy is it to find different sections of your website?</li>
-<li><span class="cat">layout and design</span> - does the design reflect your brand in a professional and informative way, and does the layout make it easy for visitors to read and interact with the content?</li>
+<li><span class="cat">layout and design</span> - does the design reflect your brand in a positive way, and does the layout make it easy for visitors to read and interact with the content?</li>
 <li><span class="cat">professional and useful content</span> - is your website informative and well written?</li>
 </ul>
 
