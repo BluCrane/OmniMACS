@@ -172,11 +172,12 @@ top: 0.2em;
 }
 
 #about .glyphicon {
-	margin-bottom: 1em;
+	margin: 1em 0;
+	font-size: 30px;
 }
 
-.block5a .glyphicon {
-	margin:0;
+.block5a .glyphicon, #two .glyphicon {
+	font-size: 30px;
 }
 
 #intouch {
