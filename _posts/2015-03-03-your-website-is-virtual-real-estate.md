@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Your website is virtual real estate"
+description: Sloppy, generic or amateurish websites chase potential clients away and devalue your brand.
 date: 2015-03-03
 ---
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
