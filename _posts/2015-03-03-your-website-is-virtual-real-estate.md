@@ -36,5 +36,8 @@ Website visitors expect a smooth user experience and clear communication that hi
 <li><span class="cat">scalability</span> - can your site adapt effortlessly to increased demand and traffic?</li>
 </ul>
 
-<p>The above questions can be addressed with a combination of time, money and expertise. Resources that many individuals and businesses may not necessarily possess in abundance. 
-OmniM*A*C*S aims to solve that by providing flexible, high quality and affordable websites that fit the purpose of your business, brand or project.</p>
+<p>The vast majority of business websites in South Africa do not deliver on most of the above minimum expectations. That means a huge opportunity for those business owners who are prepared to invest in their digital footprint: websites, social media, etc.</p>
+<p>OmniMACS is uniquely qualified to supercharge your digital footprint with powerful, but affordable websites and superior content that will enhance your business, brand or project.</p>
+
+<p><a href="http://omnimacs.co.za#contact">Contact us for a free quotation.</a></p>
+<p><a href="http://omnimacs.co.za#market">Find out about all our services.</a></p>
