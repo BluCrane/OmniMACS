@@ -16,12 +16,12 @@ Website visitors expect a smooth user experience and clear communication that hi
 
 <h3>What your website visitors want:</h3>
 <ul>
-<li><span class="postemph">responsive design</span> - does your website look equally good on a smartphone, tablet and desktop?</li>
-<li><span class="postemph">cross browser compatibility</span> - does your website render properly on different web browsers (Internet Explorer, Chrome, Firefox, Safari etc)?</li>
-<li><span class="postemph">fast page loading time</span> - does your slow website chase potential clients away?</li>
-<li><span class="postemph">ease of navigation</span> - how easy is it to find different sections of your website?</li>
-<li><span class="postemph">layout and design</span> - does the design reflect your brand in a professional and informative way, and does the layout make it easy for visitors to read and interact with the content?</li>
-<li><span class="postemph">unique selling point</span> - does your website make your product or service stand out from the rest?</li>
+<li><span class="cat">responsive design</span> - does your website look equally good on a smartphone, tablet and desktop?</li>
+<li><span class="cat">cross browser compatibility</span> - does your website render properly on different web browsers (Internet Explorer, Chrome, Firefox, Safari etc)?</li>
+<li><span class="cat">fast page loading time</span> - does your slow website chase potential clients away?</li>
+<li><span class="cat">ease of navigation</span> - how easy is it to find different sections of your website?</li>
+<li><span class="cat">layout and design</span> - does the design reflect your brand in a professional and informative way, and does the layout make it easy for visitors to read and interact with the content?</li>
+<li><span class="cat">unique selling point</span> - does your website make your product or service stand out from the rest?</li>
 </ul>
 
 <h3>What a website owner needs:</h3>
