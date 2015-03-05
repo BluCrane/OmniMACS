@@ -26,7 +26,26 @@
 			</script>
 	</head>
 	<body>
-	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+<!-- Facebook SDK -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '629810507152703',
+      xfbml      : true,
+      version    : 'v2.2'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- schema.org microdata -->
+<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 <meta itemprop="addressLocality" content="Durbanville Cape Town"></span>
 		<!-- NAVBAR
 ================================================== -->	
@@ -303,7 +322,12 @@ var submitted=false;
 				<div class="col-sm-12">
         				<p class="pull-right"><a href="#">Back to top</a></p>
         				<p>&copy; 2015 OmniMACS &middot; <a href="http://omnimacs.co.za/privacy">Privacy</a></p>
-        			</div>	
+        			</div>
+        			<div class="col-sm-12 pull-right fb-like"
+				   data-share="true"
+				  data-width="450"
+				  data-show-faces="true">
+				</div>
       			</div>
       		</div>
       	</div>	
