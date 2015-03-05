@@ -25,6 +25,23 @@
 			</script>
 </head>
 	<body id="reasons">
+<!-- Facebook SDK -->	
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '629810507152703',
+      xfbml      : true,
+      version    : 'v2.2'
+    });
+  };
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 		<!-- NAVBAR
 ================================================== -->	
 <div class="navbar-wrapper">
@@ -64,7 +81,10 @@
   <div class="container" id="thanks1">
     	<div class="row">
 		<div class="col-md-6 center-block">
-			 {{ content }}   
+			 {{ content }} 
+			 <div class="col-sm-12">
+	        		<div class="fb-share-button" data-href="http://omnimacs.co.za/" data-layout="button"></div>
+			</div>
 			<img src="https://cloud.githubusercontent.com/assets/9150985/6391499/6ce25e44-bdbf-11e4-8396-0cfe65b2cae1.png" class="img-responsive title-logo" alt="logo">
 	      	</div>
 	</div>
