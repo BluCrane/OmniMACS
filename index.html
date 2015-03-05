@@ -31,12 +31,9 @@
   window.fbAsyncInit = function() {
     FB.init({
     	FB.ui({
-     method: 'share_open_graph',
-     action_type: 'og.likes',
-     action_properties: JSON.stringify({
-      object:'http://omnimacs.co.za',
-     })
-    }, function(response){});
+  method: 'share',
+  href: 'https://developers.facebook.com/docs/',
+}, function(response){});
       appId      : '629810507152703',
       xfbml      : true,
       version    : 'v2.2'
