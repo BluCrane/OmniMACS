@@ -21,10 +21,10 @@ background-attachment: fixed;
 
 .wrap-reasons, .wrap-thanks {
 background: rgba(255,255,255,0.7);
-padding: 100px 0;
+padding: 100px 0 150px 0;
 }
 
-#reason1 li, #thanks1 li {
+#reason1 li, #thanks1 li, .wrap-white li {
 	margin-bottom: 1em;
 }
 
@@ -240,7 +240,7 @@ table {
 
 .wrap-white {
 	padding:40px 0;
-	background: #e7e7e7;
+	background: rgba(25,25,25,0.5);
 	position: absolute;
 	bottom: 0;
 	width: 100%;
