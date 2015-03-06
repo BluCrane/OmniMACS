@@ -237,7 +237,9 @@ table {
 	border:5px solid lightsalmon;
 }
 
-
+#four {
+	margin-bottom: 20px;
+}
 
 .wrap-white {
 	padding:40px 0;
