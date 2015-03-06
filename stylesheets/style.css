@@ -245,6 +245,11 @@ table {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
+	color: ivory;
+}
+
+.wrap-white a {
+	color: lightsteelblue;
 }
 
 /* CSS for Google Docs Contact Form */
