@@ -1,6 +1,6 @@
 User-agent: *
-Disallow: /unsubscribe/
-Disallow: /confirmation/
-Disallow: /thankyou/
+Disallow: /unsubscribe.html
+Disallow: /confirmation.html
+Disallow: /thankyou.html
 
 Sitemap: http://omnimacs.co.za/sitemap.xml
