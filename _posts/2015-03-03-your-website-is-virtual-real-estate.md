@@ -5,7 +5,7 @@ description: Sloppy, generic or amateurish websites will chase potential clients
 date: 2015-03-03
 ---
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
-South Africa's fast growing internet population reached 14 million in 2013, of which 60% accessed the internet regularly from cell phones. 
+South Africa's fast growing internet population reached 14 million in 2013, of whom 60% accessed the internet regularly via cell phones. 
 According to the World Bank every 10% increase in mobile penetration, leads to a corresponding 0.8% increase in gross domestic product, a fact that also has big implications for your business.</p>
 
 <p>Your website is virtual real estate. Just like your business premises or home, its appearance and user friendliness will have an effect on visitors. 
