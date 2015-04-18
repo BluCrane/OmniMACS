@@ -8,6 +8,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		{% if page.description %}<meta name="description" content="{{ page.description }}" property="og:description">{% endif %}
 		{% if page.url %}<meta content="http://omnimacs.co.za{{ page.url }}" property="og:url">{% endif %}
+		{% if page.image %}<meta content="{{ page.image }}" property="og:image">{% else %}
+  		<meta content="https://cloud.githubusercontent.com/assets/9150985/6391499/6ce25e44-bdbf-11e4-8396-0cfe65b2cae1.png" property="og:image">{% endif %}
 		<meta name="keywords" content="marketing, administration, communication, small-to-medium-businesses, projects, seo, web development, graphic design, research, copywriting, content creation, transcription services, data capture, data mining, data analysis, data visualisation" />
 		<meta property="og:site_name" content="OmniMACS"/>
 		<meta property="og:type" content="article"/>
