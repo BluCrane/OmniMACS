@@ -145,6 +145,7 @@ background-size:cover;
 padding: 70px 0 50px 0;
 }
 .jumbotron h1 {
+font-family: 'Oleo Script', sans-serif;
 color: #444;
 font-weight: 700;
 text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
