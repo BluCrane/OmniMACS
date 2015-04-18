@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>{{ page.title }}</title>
+		{% if page.title %}<meta name="title" content="{{ page.title }}" property="og:title">{% endif %}
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		{% if page.description %}<meta name="description" content="{{ page.description }}" itemprop="description" property="og:description">{% endif %}
-		{% if page.image %}<meta content="/img/srcset/{{ page.image }}" property="og:image">{% endif %}
 		<meta name="keywords" content="marketing, administration, communication, small-to-medium-businesses, projects, seo, web development, graphic design, research, copywriting, content creation, transcription services, data capture, data mining, data analysis, data visualisation" />
 		<link rel="stylesheet" href="http://omnimacs.co.za/stylesheets/bootstrap.min.css">
 		<link href='http://fonts.googleapis.com/css?family=Questrial:400' rel='stylesheet' type='text/css'>
