@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Your website is virtual real estate"
+image: "https://raw.githubusercontent.com/BluCrane/OmniMACS/gh-pages/images/websites.jpg"
 description: "Building and maintaining an effective online presence has become more crucial than ever before; sloppy, generic or amateurish websites will chase potential clients away and devalue your brand."
 date: 2015-03-03
 ---
