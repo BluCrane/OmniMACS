@@ -2,18 +2,18 @@
 <html lang="en">
 	<head>
 		<title>{{ page.title }}</title>
-		<meta name="title" content="{{ page.title }}" property="og:title">
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="{{ page.description }}" property="og:description">
-		<meta content="http://omnimacs.co.za{{ page.url }}" property="og:url">
+		<meta name="title" property="og:title" content="{{ page.title }}">
+		<meta name="description" property="og:description" content="{{ page.description }}">
+		<meta property="og:url" content="http://omnimacs.co.za{{ page.url }}">
 		<meta property="og:image" content="{% if page.image %}{{ page.image }}{% endif %}">
-		<meta name="keywords" content="marketing, administration, communication, small-to-medium-businesses, projects, seo, web development, graphic design, research, copywriting, content creation, transcription services, data capture, data mining, data analysis, data visualisation" />
 		<meta property="og:site_name" content="OmniMACS"/>
 		<meta property="og:type" content="article"/>
 		<meta property="fb:admins" content="691362690"/>
 		<meta property="fb:app_id" content="629810507152703" />
+		<meta name="keywords" content="marketing, administration, communication, small-to-medium-businesses, projects, seo, web development, graphic design, research, copywriting, content creation, transcription services, data capture, data mining, data analysis, data visualisation" />
 		<link rel="stylesheet" href="http://omnimacs.co.za/stylesheets/bootstrap.min.css">
 		<link href='http://fonts.googleapis.com/css?family=Questrial:400' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="http://omnimacs.co.za/stylesheets/style.css">
