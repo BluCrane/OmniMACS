@@ -3,6 +3,7 @@ layout: post
 title: "Your website is virtual real estate"
 description: "Building and maintaining an effective online presence has become more crucial than ever before; sloppy, generic or amateurish websites will chase potential clients away and devalue your brand."
 date: 2015-03-03
+image: https://raw.githubusercontent.com/BluCrane/OmniMACS/gh-pages/images/websites.jpg
 ---
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
 South Africa's fast growing internet population reached 14 million in 2013, of whom 60% accessed the internet regularly via cell phones. 
