@@ -4,9 +4,6 @@ title: "Your website is virtual real estate"
 description: "Building and maintaining an effective online presence has become more crucial than ever before; sloppy, generic or amateurish websites will chase potential clients away and devalue your brand."
 date: 2015-03-03
 ---
-
-<img src="https://raw.githubusercontent.com/BluCrane/OmniMACS/gh-pages/images/websites.jpg" alt="your website is virtual real estate" height="129" width="160">
-
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
 South Africa's fast growing internet population reached 14 million in 2013, of whom 60% accessed the internet regularly via cell phones. 
 According to the World Bank every 10% increase in mobile penetration, leads to a corresponding 0.8% increase in gross domestic product, a fact that also has big implications for your business.</p>
