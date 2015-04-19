@@ -5,12 +5,11 @@ description: "Building and maintaining an effective online presence has become m
 date: 2015-03-03
 image: https://raw.githubusercontent.com/BluCrane/OmniMACS/gh-pages/images/websites.jpg
 ---
-<p>Building and maintaining an effective online presence has become more crucial than ever. 
-South Africa's fast growing internet population reached 14 million in 2013, of whom 60% accessed the internet regularly via cell phones. 
-According to the World Bank every 10% increase in mobile penetration, leads to a corresponding 0.8% increase in gross domestic product, a fact that also has big implications for your business.</p>
+<p>Building and maintaining an effective online presence has become more crucial than ever.</p>
 
-<p>Your website is virtual real estate. Just like your business premises or home, its appearance and user friendliness will have an effect on visitors. 
-Sloppy, generic or amateurish websites chase potential clients away and devalue your brand.</p>
+South Africa's fast growing internet population reached 14 million in 2013, of whom 60% accessed the internet regularly via cell phones. According to the World Bank every 10% increase in mobile penetration, leads to a corresponding 0.8% increase in gross domestic product, a fact that also has big implications for your business.</p>
+
+<p>Your website is virtual real estate. Just like your business premises or home, its appearance and user friendliness will have an effect on visitors. Sloppy, generic or amateurish websites chase potential clients away and devalue your brand.</p>
 
 <p>If your goal is to engage potential clients on a professional level there are some important factors to take into account.
 Website visitors expect a smooth user experience and clear communication that highlights your brand, product or service.</p>
