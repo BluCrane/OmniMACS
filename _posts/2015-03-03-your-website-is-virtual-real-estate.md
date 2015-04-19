@@ -5,7 +5,7 @@ description: "Building and maintaining an effective online presence has become m
 date: 2015-03-03
 ---
 
-<img src="https://raw.githubusercontent.com/BluCrane/OmniMACS/gh-pages/images/websites.jpg" alt="Smiley face" height="129" width="160">
+<img src="https://raw.githubusercontent.com/BluCrane/OmniMACS/gh-pages/images/websites.jpg" alt="your website is virtual real estate" height="129" width="160">
 
 <p>Building and maintaining an effective online presence has become more crucial than ever. 
 South Africa's fast growing internet population reached 14 million in 2013, of whom 60% accessed the internet regularly via cell phones. 
