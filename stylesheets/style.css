@@ -226,6 +226,11 @@ table {
 	margin-bottom: 120px;
 }
 
+.block5 {
+	border: 10px solid lightsalmon;
+    	margin-top: 10px;
+}
+
 .wrap-white {
 	padding:40px 0;
 	background: rgba(25,25,25,0.5);
