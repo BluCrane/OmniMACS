@@ -143,19 +143,24 @@ color: #777;
 .navbar-nav {
 float: right;
 margin: 0 5em 0 0;
-}
-#one.container-fluid .img-responsive {
-	width: 100%;
-    	height: calc(100vh - 54px);
-}
-}
+	}
 /** CSS trapezium background for h2
 .jumbotron .center-block {
 border-bottom: 160px solid red;
 border-left: 50px solid transparent;
 border-right: 50px solid transparent;
 height: 0;
-} **/
+	} **/
+}
+
+@media (min-width: 992px) {
+.col-md-6.left {
+	border-right: 1px solid #ddd;
+	}
+#one.container-fluid .img-responsive {
+	width: 100%;
+    	height: calc(100vh - 54px);
+	}
 }
 
 #about .glyphicon {
@@ -169,12 +174,6 @@ height: 0;
 
 #intouch {
 	margin-bottom: 1em;
-}
-
-@media (min-width: 992px) {
-.col-md-6.left {
-	border-right: 1px solid #ddd;
-}
 }
 
 .wrap-blue, .block6 {
