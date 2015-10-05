@@ -144,6 +144,11 @@ color: #777;
 float: right;
 margin: 0 5em 0 0;
 }
+#one.container-fluid .img-responsive {
+	width: 100%;
+    	height: calc(100vh - 54px);
+}
+}
 /** CSS trapezium background for h2
 .jumbotron .center-block {
 border-bottom: 160px solid red;
