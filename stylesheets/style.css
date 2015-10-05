@@ -105,8 +105,8 @@ color: blue;
 
 @media (max-width: 520px) {
 /* .jumbotron h2 {
-font-size: 24px; */
-}
+font-size: 24px;
+} */
 }
 
 @media (max-width: 767px) {
@@ -131,30 +131,9 @@ color: #777;
 .navbar-default .navbar-nav .open .dropdown-menu>li>a {
 	padding:0 0 0.5em 2em;
 }
-/* .jumbotron {
-padding: 40px 0 10px 0;
-margin-bottom: 0px;
 }
-}
-
-.jumbotron {
-background-image: url(https://cloud.githubusercontent.com/assets/9150985/6755941/3e33a838-cf2f-11e4-97f0-c6d2d824fa91.jpg);
-background-position: 50% 50%;
-background-repeat: no-repeat;
-background-size:cover;
-padding: 70px 0 50px 0;
-}
-.jumbotron h1 {
-font-family: 'Oleo Script', sans-serif;
-color: #444;
-font-weight: 700;
-text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
-} */
 
 @media screen and (min-width: 768px) {
-/* .jumbotron h1, .jumbotron .h1 {
-font-size: 50px;
-} */
 .navbar-nav {
 float: right;
 margin: 0 5em 0 0;
@@ -167,11 +146,6 @@ border-right: 50px solid transparent;
 height: 0;
 } **/
 }
-
-/* .jumbotron .glyphicon {
-margin-right: 1em;
-top: 0.2em;
-} */
 
 #about .glyphicon {
 	margin: 1em 0;
