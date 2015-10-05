@@ -104,8 +104,8 @@ color: blue;
 }
 
 @media (max-width: 520px) {
-.jumbotron h2 {
-font-size: 24px;
+/* .jumbotron h2 {
+font-size: 24px; */
 }
 }
 
@@ -131,7 +131,7 @@ color: #777;
 .navbar-default .navbar-nav .open .dropdown-menu>li>a {
 	padding:0 0 0.5em 2em;
 }
-.jumbotron {
+/* .jumbotron {
 padding: 40px 0 10px 0;
 margin-bottom: 0px;
 }
@@ -149,12 +149,12 @@ font-family: 'Oleo Script', sans-serif;
 color: #444;
 font-weight: 700;
 text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
-}
+} */
 
 @media screen and (min-width: 768px) {
-.jumbotron h1, .jumbotron .h1 {
+/* .jumbotron h1, .jumbotron .h1 {
 font-size: 50px;
-}
+} */
 .navbar-nav {
 float: right;
 margin: 0 5em 0 0;
@@ -168,10 +168,10 @@ height: 0;
 } **/
 }
 
-.jumbotron .glyphicon {
+/* .jumbotron .glyphicon {
 margin-right: 1em;
 top: 0.2em;
-}
+} */
 
 #about .glyphicon {
 	margin: 1em 0;
