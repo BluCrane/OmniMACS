@@ -41,6 +41,10 @@ background: rgba(25,250,250,0.5);
     padding-right: 0;
 }
 
+#two.container {
+	margin-top: 30px;
+}
+
 h2, h3, h4 {
 	color: #444;
 }
