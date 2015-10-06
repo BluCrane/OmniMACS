@@ -92,8 +92,8 @@ line-height: inherit;
 }
 
 #navlogo {
-	float: left
-	padding 12px;
+	float: left;
+	padding: 12px;
 }
 
 .navbar-default .navbar-nav>li>a {
