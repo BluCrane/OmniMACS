@@ -54,6 +54,11 @@ color: red;
 font-size: 18px;
 }
 
+.row.block2 {
+	    border: 10px solid lightsteelblue;
+	    margin: 30px 0 20px 0;
+}
+
 .block2 dt {
 	color: red;
 }
@@ -223,7 +228,7 @@ table {
    border:5px solid gainsboro;
  }
  
- #comm h3 {
+#comm h3 {
 	border:5px solid lightsalmon;
 }
 
