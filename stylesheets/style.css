@@ -55,7 +55,7 @@ font-size: 18px;
 }
 
 .row.block2 {
-	    border: 10px solid lightsteelblue;
+	    border: 5px solid lightsteelblue;
 	    margin: 30px 0 20px 0;
 }
 
@@ -171,10 +171,10 @@ height: 0;
 
 @media (min-width: 992px) {
 .row.block2 .col-md-6.left {
-	border-right: 10px solid lightsteelblue;
+	border-right: 5px solid lightsteelblue;
 	}
 .row.block4 .col-md-6.left {
-	border-right: 10px solid lightsalmon;
+	border-right: 5px solid lightsalmon;
 	}
 #one.container-fluid .img-responsive {
 	width: 100%;
