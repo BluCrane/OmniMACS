@@ -59,11 +59,11 @@ font-size: 18px;
 	    margin: 30px 0 20px 0;
 }
 
-.block2 dt {
+.block2 h4 {
 	color: red;
 }
 
-.block2 dd {
+.block2 li {
 	margin-bottom:1em;
 }
 
