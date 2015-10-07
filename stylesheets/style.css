@@ -170,8 +170,11 @@ height: 0;
 }
 
 @media (min-width: 992px) {
-.col-md-6.left {
-	border-right: 1px solid #ddd;
+.block2 .col-md-6.left {
+	border-right: 10px solid lightsteelblue;
+	}
+.block4 .col-md-6.left {
+	border-right: 10px solid lightsalmon;
 	}
 #one.container-fluid .img-responsive {
 	width: 100%;
