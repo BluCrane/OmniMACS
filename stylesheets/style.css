@@ -12,6 +12,10 @@ margin-bottom: 100px;
 border-top: 55px solid cornflowerblue;
 }
 
+h2, h3, h4 {
+	color: #444;
+}
+
 #thankyou, #reasons {
 background-image: url(https://cloud.githubusercontent.com/assets/9150985/6755941/3e33a838-cf2f-11e4-97f0-c6d2d824fa91.jpg);
 background-position: 50% 50%;
@@ -41,8 +45,8 @@ background: rgba(25,250,250,0.5);
     padding-right: 0;
 }
 
-h2, h3, h4 {
-	color: #444;
+.block2 li {
+	display: inline-block;
 }
 
 /** get single column to float in middle of page **/
