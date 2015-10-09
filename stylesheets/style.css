@@ -48,6 +48,7 @@ background: rgba(25,250,250,0.5);
 .block2 h4 {
 	color: white;
 	background-color: lightsalmon;
+	padding: 2%;
 }
 
 /** get single column to float in middle of page **/
@@ -137,6 +138,9 @@ color: #777;
 float: right;
 margin: 0 5em 0 0;
 	}
+.block2 h4 {
+    	text-align: center;
+	}
 /** CSS trapezium background for h2
 .jumbotron .center-block {
 border-bottom: 160px solid red;
@@ -147,9 +151,6 @@ height: 0;
 }
 
 @media (min-width: 992px) {
-.row.block4 .col-md-6.left {
-	border-right: 5px solid lightsalmon;
-	}
 #one.container-fluid .img-responsive {
 	width: 100%;
     	height: calc(100vh - 54px);
@@ -157,7 +158,10 @@ height: 0;
 .block2 h4 {
 	height: 100px;
     	text-align: center;
-    	padding-top: 10%;
+    	padding: 8%;
+	}
+.row.block4 .col-md-6.left {
+	border-right: 5px solid lightsalmon;
 	}
 }
 
