@@ -51,10 +51,12 @@ background: rgba(25,250,250,0.5);
 }
 
 .block2 h3 {
-    	background-color: lightsteelblue;
     	padding: 2%;
     	margin-bottom: 0;
     	text-transform: capitalize;
+    	border-left: 5px solid lightsalmon;
+    	border-right: 5px solid lightsalmon;
+    	border-top: 5px solid lightsalmon;
 }
 
 .block2 h4 {
@@ -62,6 +64,7 @@ background: rgba(25,250,250,0.5);
 	background-color: lightsalmon;
 	padding: 2%;
 	margin-top: 0;
+	margin-bottom:0;
 }
 
 .block2 p {
