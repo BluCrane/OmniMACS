@@ -45,10 +45,6 @@ background: rgba(25,250,250,0.5);
     padding-right: 0;
 }
 
-.block2 li {
-	display: inline-block;
-}
-
 /** get single column to float in middle of page **/
 .center-block {
 	float: none;
