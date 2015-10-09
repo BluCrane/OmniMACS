@@ -72,6 +72,7 @@ background: rgba(25,250,250,0.5);
     	border-bottom-right-radius: 50px;
     	padding: 2%;
     	margin-top: 0;
+    	font-size: 14px;
 }
 
 /** get single column to float in middle of page **/
@@ -164,6 +165,9 @@ margin: 0 5em 0 0;
 .block2 h4 {
     	text-align: center;
 	}
+.block2 p {
+	height: 70px;
+	}
 /** CSS trapezium background for h2
 .jumbotron .center-block {
 border-bottom: 160px solid red;
@@ -184,7 +188,7 @@ height: 0;
     	padding: 8%;
 	}
 .block2 p {
-	height: 120px;
+	height: 110px;
 	padding: 3%;
 	}
 	
