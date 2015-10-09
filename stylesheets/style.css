@@ -60,6 +60,13 @@ background: rgba(25,250,250,0.5);
     	text-transform: capitalize;
 }
 
+.block2 p {
+	background-color: gainsboro;
+    	border-bottom-right-radius: 50px;
+    	height: 100px;
+    	padding: 2%;
+}
+
 /** get single column to float in middle of page **/
 .center-block {
 	float: none;
