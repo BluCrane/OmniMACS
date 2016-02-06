@@ -46,6 +46,14 @@ background: rgba(25,250,250,0.5);
 	margin-bottom: 30px;
 }
 
+.block1 {
+    background-color: lightsteelblue;
+    color: white;
+    padding: 1em 0;
+}
+
+
+
 .block2 {
 	margin: 30px 0 0 0;
 }
@@ -269,6 +277,7 @@ table {
 
 .row.block5 {
 	border: 10px solid lightsalmon;
+	background-color: lightsalmon;
     	margin-top: 10px;
 }
 
