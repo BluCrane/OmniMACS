@@ -275,10 +275,14 @@ table {
 	margin-bottom: 120px;
 }
 
-.row.block5 {
+.block5 {
 	border: 10px solid lightsalmon;
 	background-color: lightsalmon;
     	margin-top: 10px;
+}
+
+.block5 h2 {
+	color: white;
 }
 
 .row.block5a {
