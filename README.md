@@ -1,7 +1,7 @@
 OmniMACS
 ========
 
-Business Support Services
+Digital Media Services
 
 Github user page: https://github.com/blucrane/
 
