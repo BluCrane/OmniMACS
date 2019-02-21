@@ -28,7 +28,7 @@ image: https://user-images.githubusercontent.com/9150985/53177241-55d9a800-35f8-
   <li>get an SSL certificate</li>
   <li>force the use of HTTPS in your site's back-end</li>
   <li>update your site address in the code</li>
-  <li>change the links your in site's content, plugins and templates</li>
+  <li>change the links in your site's content, plugins and templates</li>
   <li>implement 301 redirects</li>
   <li>update your XML sitemap, Google console, CDN, and analytics</li>
   <li>retain your social shares</li>
