@@ -3,4 +3,4 @@ Disallow: /unsubscribe.html
 Disallow: /confirmation.html
 Disallow: /thankyou.html
 
-Sitemap: http://omnimacs.co.za/sitemap.xml
+Sitemap: https://omnimacs.co.za/sitemap.xml
