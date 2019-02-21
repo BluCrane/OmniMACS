@@ -9,7 +9,7 @@ description: Tips and News about cost-effective marketing, administration and co
 
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-	    {{ post.excerpt }}
+	    {{ post.description }}
 	    </li>
 	  {% endfor %}
 	</ul>
