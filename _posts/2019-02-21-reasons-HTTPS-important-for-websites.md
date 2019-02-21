@@ -21,7 +21,7 @@ image: https://user-images.githubusercontent.com/9150985/53177241-55d9a800-35f8-
 
 <p><b>5. It used to be quite expensive,</b> but over the past few years a number of free HTTPS encryption services have made the cost of implementation much cheaper.</p>
 
-<h3>Why should you choose <b>OmniMACS</b> to help you implement HTTPS for your websites?</h3>
+<h3>Why should you choose <b>OmniMACS</b> to help you implement HTTPS?</h3>
 
 <p>Implementation can be tricky with many moving parts that need to be attended to:</p>
 <ul>
