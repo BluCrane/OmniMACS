@@ -1,4 +1,5 @@
 name: OmniMACS | Business Support Services | Cape Town
+url: "https://omnimacs.co.za"
 markdown: kramdown
 gems:
   - jekyll-sitemap
