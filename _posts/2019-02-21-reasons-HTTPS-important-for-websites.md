@@ -11,7 +11,7 @@ image: https://user-images.githubusercontent.com/9150985/53177241-55d9a800-35f8-
 
 <h3>Why should you switch your website to HTTPS?<h3>
 
-<p><b>1. Potential clients will have more trust in your business.</b> Regular HTTP connections are vulnerable to the theft of sensitive information such as credit card details. HTTP also allows third parties to add unwanted ads and malware to your website.</p>
+<p><strong>1. Potential clients will have more trust in your business.</strong> Regular HTTP connections are vulnerable to the theft of sensitive information such as credit card details. HTTP also allows third parties to add unwanted ads and malware to your website.</p>
 
 <p><b>2. Convert website visitors into paying customers.</b> If a potential client had to choose between your site without HTTPS and a competitor with an encrypted connection you may very well lose out on their business.</p>
 
