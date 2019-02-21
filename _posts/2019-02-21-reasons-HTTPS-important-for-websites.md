@@ -9,9 +9,9 @@ image: https://user-images.githubusercontent.com/9150985/53177241-55d9a800-35f8-
 
 <p>HTTPS (also represented by the lock icon in your browser address bar) is an encrypted website connection and the secure version of the standard HTTP (hypertext transfer protocol) which is used to render websites in your browser.</p>
 
-<h3>Why should you switch your website to HTTPS?</h3>
+<h3>Why should you switch your website to HTTPS?<h3>
 
-<p><b>1. Potential clients will have more trust in your business.</b> Regular HTTP connections are vulnerable to the theft of sensitive information such as credit card details. HTTP also allows third parties to add unwanted ads and malware to your website.</p>
+<p><strong>1. Potential clients will have more trust in your business.</strong> Regular HTTP connections are vulnerable to the theft of sensitive information such as credit card details. HTTP also allows third parties to add unwanted ads and malware to your website.</p>
 
 <p><b>2. Convert website visitors into paying customers.</b> If a potential client had to choose between your site without HTTPS and a competitor with an encrypted connection you may very well lose out on their business.</p>
 
@@ -23,7 +23,16 @@ image: https://user-images.githubusercontent.com/9150985/53177241-55d9a800-35f8-
 
 <h3>Why should you choose <b>OmniMACS</b> to help you implement HTTPS for your websites?</h3>
 
-<p>Implementation can be tricky with many moving parts that need to be attended to: get an SSL certificate, force the use of HTTPS in your site's back-end, update your site address in the code, change the links your in site's content and templates, implement 301 redirects, update your XML sitemap/Google console/CDN/analytics, and retain your social shares.</p>
+<p>Implementation can be tricky with many moving parts that need to be attended to:</p>
+<ul>
+  <li>get an SSL certificate</li>
+  <li>force the use of HTTPS in your site's back-end</li>
+  <li>update your site address in the code</li>
+  <li>change the links your in site's content, plugins and templates</li>
+  <li>implement 301 redirects</li>
+  <li>update your XML sitemap, Google console, CDN, and analytics</li>
+  <li>retain your social shares</li>
+</ul>
 
 <p>Sounds like a walk in the park? If not, get in touch and we'll make sure your site's as secure as Fort Knox.</p>
 
