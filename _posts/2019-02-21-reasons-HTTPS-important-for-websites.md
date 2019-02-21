@@ -5,7 +5,7 @@ description: "The secure encrypted connection that HTTPS provides for your websi
 date: 2019-02-21
 image: https://user-images.githubusercontent.com/9150985/53177241-55d9a800-35f8-11e9-8183-1208099fe615.jpg
 ---
-<h3>What is this HTTPS?</h3>
+<p>What is this HTTPS?</p>
 
 <p>HTTPS (also represented by the lock icon in your browser address bar) is an encrypted website connection and the secure version of the standard HTTP (hypertext transfer protocol) which is used to render websites in your browser.</p>
 
