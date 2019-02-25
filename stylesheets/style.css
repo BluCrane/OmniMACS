@@ -383,3 +383,6 @@ cursor: pointer;
     transform: rotate(360deg);
 }
 }
+.rotating {
+	animation: rotating 5s linear infinite;
+}
